@@ -1,0 +1,8 @@
+D:\4932\JpegCompression\JpegCompression\bin\Debug\JpegCompression.exe.config
+D:\4932\JpegCompression\JpegCompression\bin\Debug\JpegCompression.exe
+D:\4932\JpegCompression\JpegCompression\bin\Debug\JpegCompression.pdb
+D:\4932\JpegCompression\JpegCompression\obj\Debug\JpegCompression.csprojResolveAssemblyReference.cache
+D:\4932\JpegCompression\JpegCompression\obj\Debug\JpegCompression.Properties.Resources.resources
+D:\4932\JpegCompression\JpegCompression\obj\Debug\JpegCompression.csproj.GenerateResource.Cache
+D:\4932\JpegCompression\JpegCompression\obj\Debug\JpegCompression.exe
+D:\4932\JpegCompression\JpegCompression\obj\Debug\JpegCompression.pdb
